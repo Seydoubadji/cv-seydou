@@ -5,7 +5,7 @@ import streamlit as st
 st.set_page_config(page_title="Portfolio | Seydou Badji", page_icon="🌐", layout="wide")
 
 with st.sidebar:
-    st.image ("a.png" ,width=400)
+   
     st.title("Seydou Badji")
     st.write("📍 **lac rose , Dakar, Sénégal**")
     st.write("📧 Email (badjiseydou8070@gmail.com)")
